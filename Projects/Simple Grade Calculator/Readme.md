@@ -46,4 +46,4 @@ This project is a **Simple Grade Calculator** written in the C programming langu
 
 ## Outputs
 - For Grade: 88
-- <img src="../../images/Grade-calculation">
+- <img src="../../images/Grade-calculation.png">
