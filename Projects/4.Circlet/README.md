@@ -10,9 +10,6 @@ You can use this in GitHub or any portfolio project.
 
 ---
 
-### ✅ **README.md**    
-
-```markdown
 # 🔢 Pattern Printing Programs in C
 
 This project demonstrates the use of **nested `for` loops** in the C programming language by printing various number and character patterns. It is a great exercise for understanding control structures and logic building in C.
@@ -39,7 +36,7 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 ```
 
 🖼️ **Sample Output Image:**
-![Right Half Triangle](images/q1.png)
+![Custom Number](../../images/1.Right-angle.png)
 
 ---
 
@@ -56,7 +53,7 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 ```
 
 🖼️ **Sample Output Image:**
-![Floyd Triangle](images/q2.png)
+![Custom Number](../../images/3.Right-angle.png)
 
 ---
 
@@ -66,18 +63,16 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 ```
 
 ```
-    5  
-  4 5  
-3 4 5  
-```
-
-2 3 4 5
+        5  
+      4 5  
+    3 4 5  
+  2 3 4 5
 1 2 3 4 5
 
 ```
 
 🖼️ **Sample Output Image:**
-![Left Half Triangle](images/q3.png)
+![Custom Number](../../images/3.Right-angle.png)
 
 ---
 
@@ -95,7 +90,7 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 ```
 
 🖼️ **Sample Output Image:**
-![Binary Inverted](images/q4.png)
+![Custom Number](../../images/4.Right-angle.png)
 
 ---
 
@@ -103,20 +98,16 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 
 **Pattern:**
 ```
-
-```
-    5  
-  454  
-34543  
-```
-
-2345432
-123454321
+        5  
+       454  
+      34543  
+     2345432
+    123454321
 
 ```
 
 🖼️ **Sample Output Image:**
-![Full Pyramid](images/q5.png)
+![Custom Number](../../images/5.Right-angle.png)
 
 ---
 
@@ -134,36 +125,17 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 ```
 
 🖼️ **Sample Output Image:**
-![Custom Number](images/q6.png)
+![Custom Number](../../images/6.Right-angle.png)
 
 ---
 
 ### 📘 Q7. Custom Alphabetic Pattern
 
-**Pattern:**
-```
+![Custom Number](../../images/7.Right-angle.png)
 
----
 
-* ```
-    *  
-  ```
 
----
 
-*
-*
-
-````
-
-🖼️ **Sample Output Image:**
-![Alphabetic Star](images/q7.png)
-
----
-
-## 🔚 Conclusion
-
-This project showcases creative use of nested loops to generate patterns in C. These logic patterns are frequently asked in interviews and college exams and help improve coding confidence and control flow understanding.
 
 
 
