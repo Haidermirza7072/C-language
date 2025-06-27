@@ -1,14 +1,4 @@
-Here’s a complete, **well-formatted README.md** file you can use for your C Pattern Printing Project. It includes:
 
-* 📌 Project description
-* 💡 Individual program descriptions
-* ✅ Sample output image sections
-* 🛠️ How to run
-* 🔚 Conclusion
-
-You can use this in GitHub or any portfolio project.
-
----
 
 # 🔢 Pattern Printing Programs in C
 
@@ -60,8 +50,6 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 ### 📘 Q3. Left Half Triangle Pattern
 
 **Pattern:**
-```
-
 ```
         5  
       4 5  
