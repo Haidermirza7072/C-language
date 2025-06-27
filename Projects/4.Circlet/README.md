@@ -119,6 +119,16 @@ Each program is written using **nested `for` loops**, with an emphasis on format
 
 ### 📘 Q7. Custom Alphabetic Pattern
 
+**Pattern:**
+```
+* * * *
+*     *
+* * * *
+*
+*
+
+```
+
 ![Custom Number](../../images/7.Right-angle.png)
 
 
