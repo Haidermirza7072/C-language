@@ -28,7 +28,7 @@ Calculates and displays the **cube of each element** in a 2D array using pointer
 
 📷 **Output Screenshot:**
 
-![String Length Output](../../images/String.png)
+<img src="../../images/String.png" >
 
 ---
 
@@ -45,8 +45,7 @@ Calculates and displays the **cube of each element** in a 2D array using pointer
 
 📷 **Output Screenshot:**
 
-![2D Cube Output](../../images/Cubes%20of%20array.png)
-
+<img src="../../images/Cubes of array.png" >
 
 
 ## 👨‍💻 Author

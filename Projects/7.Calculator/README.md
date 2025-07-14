@@ -45,10 +45,8 @@ The `main()` function contains:
 
 ### 🖼️ Output Screenshot
 
-> 💡 Add this image manually in your README folder and link it like below.
-
 ```
-![String Length Output](../../images/Calculater.png)
+<img src="../../images/Calculater.png" >
 
 ```
 ---
