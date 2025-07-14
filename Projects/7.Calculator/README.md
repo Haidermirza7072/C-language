@@ -48,7 +48,7 @@ The `main()` function contains:
 > 💡 Add this image manually in your README folder and link it like below.
 
 ```
-![String Length Output](images/length_output.png)
+![String Length Output](../../images/Calculater.png)
 
 ```
 ---
