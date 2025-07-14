@@ -1,5 +1,4 @@
 
-```markdown
 # 💻 Pointer and UDF Based C Programs
 
 This project includes two C programs written to demonstrate the use of **pointers**, **User Defined Functions (UDF)**, and **2D arrays**.
